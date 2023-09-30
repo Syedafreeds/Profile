@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Java Full Stack Developer**
 
 - 🔭 I’m currently Working on [Portfolio](http://127.0.0.1:5500/html%20cls/port.html)
+-                                 
 
 - 📫 How to reach me **syedafreeds72@gmail.com**
 
