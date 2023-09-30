@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafreeds&label=Profile%20views&color=0e75b6&style=flat" alt="syedafreeds" /> </p>
 
-- 🔭 I’m currently working on [website](http://127.0.0.1:5500/website.html)
+
 
 - 🌱 I’m currently learning **Java Full Stack Developer**
 
