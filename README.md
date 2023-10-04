@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Java Full Stack Developer**
-
+- 👨‍💻 My Project are available at [http://127.0.0.1:5500/html%20cls/port.html](http://127.0.0.1:5500/html%20cls/port.html)
 
                                   
 
@@ -26,5 +26,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/afreed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afreed" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedafreeds&show_icons=true&locale=en&layout=compact" alt="syedafreeds" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedafreeds&show_icons=true&locale=en" alt="syedafreeds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedafreeds&" alt="syedafreeds" /></p>
